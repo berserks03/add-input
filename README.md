@@ -1,5 +1,7 @@
 # gerlionti-form
 
+[Deployed In Netlify](https://gerlionti-input.netlify.app/)
+
 ## Project setup
 ```
 npm install
